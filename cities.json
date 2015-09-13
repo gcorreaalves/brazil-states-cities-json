@@ -1,6 +1,5 @@
 [{
-  "state": "ES",
-  "cities": [
+  "ES" : [
   	"Afonso Cláudio",
   	"Água Doce do Norte",
   	"Águia Branca",
@@ -82,8 +81,7 @@
   	"Acrelândia"
   ]
 },{
-	"state": "AC",
-  "cities": [
+	"AC" : [
 	  "Assis Brasil",
 	  "Brasiléia",
 	  "Bujari",
@@ -109,8 +107,7 @@
   ]
 },
 {
-  "state": "AL",
-  "cities": [
+  "AL" : [
 	  "Anadia",
 	  "Arapiraca",
 	  "Atalaia",
@@ -236,8 +233,7 @@
   ]
 },
 {
-  "state": "AM",
-  "cities": [
+  "AM" : [
     "Alvarães",
 	  "Amaturá",
 	  "Anamã",
@@ -1615,8 +1611,7 @@
 	  "Vicentina"
   ]
 }, {
-  "state": "MG",
-  "cities" : [
+  "MG"  : [
 	  "Abadia dos Dourados",
 	  "Abaeté",
 	  "Abre Campo",
@@ -2472,8 +2467,7 @@
 	  "Wenceslau Braz"
   ]
 }, {
-  "state": "PA",
-  "cities": [
+  "PA" : [
 	  "Abaetetuba",
 	  "Abel Figueiredo",
 	  "Acará",
@@ -2620,8 +2614,7 @@
   ]
 },
 {
-  "state": "PB",
-  "cities": [
+  "PB" : [
 	  "Água Branca",
 	  "Aguiar",
 	  "Alagoa Grande",
@@ -2847,8 +2840,7 @@
 	  "Zabelê"
   ]
 },{
-  "state": "PR",
-  "cities": [
+  "PR" : [
 	  "Abatiá",
 	  "Adrianópolis",
 	  "Agudos do Sul",
@@ -3250,8 +3242,7 @@
 	  "Xambrê"
   ]
 },{
-  "state": "PE",
-  "cities": [
+  "PE" : [
 	  "Abreu e Lima",
 	  "Afogados da Ingazeira",
 	  "Afrânio",
@@ -3439,8 +3430,7 @@
 	  "Xexéu"
   ]
 },{
-  "state": "PI",
-  "cities": [
+  "PI" : [
 	  "Acauã",
 	  "Agricolândia",
 	  "Água Branca",
@@ -3666,8 +3656,7 @@
 	  "Wall Ferraz"
   ]
 },{
-  "state": "RJ",
-  "cities": [
+  "RJ" : [
 	  "Angra dos Reis",
 	  "Aperibé",
 	  "Araruama",
@@ -3762,8 +3751,7 @@
 	  "Volta Redonda"
   ]
 },{
-  "state": "RN",
-  "cities": [
+  "RN" : [
 	  "Acari",
 	  "Açu",
 	  "Afonso Bezerra",
@@ -3933,8 +3921,7 @@
 	  "Vila Flor"
   ]
 },{
-  "state": "RS",
-  "cities": [
+  "RS" : [
 	  "Aceguá",
 	  "Água Santa",
 	  "Agudo",
@@ -4433,8 +4420,7 @@
 	  "Xangri-lá"
   ]
 },{
-  "state": "RO",
-  "cities": [
+  "RO" : [
 	  "Alta Floresta d`Oeste",
 	  "Alto Alegre dos Parecis",
 	  "Alto Paraíso",
@@ -4489,8 +4475,7 @@
 	  "Vilhena"
   ]
 },{
-  "state": "RR",
-  "cities": [
+  "RR" : [
 	  "Alto Alegre",
 	  "Amajari",
 	  "Boa Vista",
@@ -4508,8 +4493,7 @@
 	  "Uiramutã"
   ]
 },{
-  "state": "SC",
-  "cities": [
+  "SC" : [
 	  "Abdon Batista",
 	  "Abelardo Luz",
 	  "Agrolândia",
@@ -4805,8 +4789,7 @@
 	  "Zortéa"
   ]
 },{
-  "state": "SP",
-  "cities": [
+  "SP" : [
 	  "Adamantina",
 	  "Adolfo",
 	  "Aguaí",
@@ -5454,8 +5437,7 @@
 	  "Zacarias"
   ]
 },{
-  "state": "SE",
-  "cities": [
+  "SE" : [
 	  "Amparo de São Francisco",
 	  "Aquidabã",
 	  "Aracaju",
@@ -5533,8 +5515,7 @@
 	  "Umbaúba"
   ]
 },{
-  "state": "TO",
-  "cities": [
+  "TO" : [
 	  "Abreulândia",
 	  "Aguiarnópolis",
 	  "Aliança do Tocantins",
