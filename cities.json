@@ -212,8 +212,7 @@
   ]
 },
 {
-  "state" : "AP",
-  "cities" : [
+  "AP" : [
 	  "Amapá",
 	  "Calçoene",
 	  "Cutias",
@@ -299,8 +298,7 @@
   ]
 },
 {
-  "state" : "BA",
-  "cities" : [
+  "BA" : [
 	  "Abaíra",
 	  "Abaré",
 	  "Acajutiba",
@@ -720,8 +718,7 @@
 	  "Xique-Xique"
   ]
 },{
-  "state" : "CE",
-  "cities": [
+  "CE": [
 	  "Abaiara",
 	  "Acarape",
 	  "Acaraú",
@@ -908,13 +905,11 @@
 	  "Viçosa do Ceará"
   ]
 },{
-  "state" : "DF",
-  "cities" : [
+  "DF" : [
     "Brasília"
   ]
 },{
-  "state" : "GO",
-  "cities" : [
+  "GO" : [
 	  "Abadia de Goiás",
 	  "Abadiânia",
 	  "Acreúna",
@@ -1163,8 +1158,7 @@
 	  "Vila Propício"
   ]
 },{
-  "state" : "MA",
-  "cities" : [
+  "MA" : [
 	  "Açailândia",
 	  "Afonso Cunha",
 	  "Água Doce do Maranhão",
@@ -1384,8 +1378,7 @@
 	  "Zé Doca"
   ]
 }, {
-  "state" : "MT",
-  "cities" : [
+  "MT" : [
 	  "Acorizal",
 	  "Água Boa",
 	  "Alta Floresta",
@@ -1529,8 +1522,7 @@
 	  "Vila Rica"
   ]
 },{
-  "state" : "MS",
-  "cities" : [
+  "MS" : [
 	  "Água Clara",
 	  "Alcinópolis",
 	  "Amambaí",
