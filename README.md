@@ -1,1 +1,1 @@
-Cidades e estados brasileiros no formato JSON
+Cidades e estados brasileiros no formato JSON.
